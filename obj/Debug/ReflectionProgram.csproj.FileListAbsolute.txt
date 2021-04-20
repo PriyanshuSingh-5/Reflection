@@ -1,0 +1,7 @@
+C:\Users\K.R.DHASHNIGA\source\repos\ReflectionProgram\ReflectionProgram\bin\Debug\ReflectionProgram.exe.config
+C:\Users\K.R.DHASHNIGA\source\repos\ReflectionProgram\ReflectionProgram\bin\Debug\ReflectionProgram.exe
+C:\Users\K.R.DHASHNIGA\source\repos\ReflectionProgram\ReflectionProgram\bin\Debug\ReflectionProgram.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\ReflectionProgram\ReflectionProgram\obj\Debug\ReflectionProgram.csprojAssemblyReference.cache
+C:\Users\K.R.DHASHNIGA\source\repos\ReflectionProgram\ReflectionProgram\obj\Debug\ReflectionProgram.csproj.CoreCompileInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\ReflectionProgram\ReflectionProgram\obj\Debug\ReflectionProgram.exe
+C:\Users\K.R.DHASHNIGA\source\repos\ReflectionProgram\ReflectionProgram\obj\Debug\ReflectionProgram.pdb
